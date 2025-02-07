@@ -11,3 +11,13 @@
 2. Open the terminal and run:
    ```sh
    git init
+   
+   ---
+
+### **4. Push the Changes to GitHub**
+After adding the screenshot, push the update to GitHub:
+
+```sh
+git add .
+git commit -m "Added terminal screenshot"
+git push origin main
